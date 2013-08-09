@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'cancan'
+gem 'protected_attributes'
 gem 'compass-rails', :github=>"milgner/compass-rails", :branch=>"rails4"
 gem 'figaro'
 gem 'haml-rails'
